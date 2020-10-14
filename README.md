@@ -11,3 +11,6 @@ index.html: basic html skeleton for the front end
 environment.sh: shell script to load environment variable, for google game server credentials
 
 tests.js: right now, just a javascript file/playground
+
+
+BACKEND: Google Game Servers API: https://cloud.google.com/game-servers/docs
