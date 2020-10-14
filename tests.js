@@ -1,9 +1,10 @@
 const {RealmsServiceClient} = require('@google-cloud/game-servers');
 
+
+// CODE TO create a Realm
 async function createRealm(id) {
     const client = new RealmsServiceClient();
 
-    // TODO(developer): uncomment the following section, and add values
     const projectId = 'adept-turbine-291020';
     const location = 'us-central1';
     const realmId = id;
