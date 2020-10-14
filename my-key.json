@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adept-turbine-291020",
+  "private_key_id": "ce86a81ea8d3c20003d6558e5db75c605a20e4ee",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGi6ypI+omEEFE\nUQ6lCeKsm0MWaATqMHiHMA/3bgP5pqoPf2kJUYqyp09I4yKhyDzWFR4r9ccPtFhT\n7K245VQFy/IMI3MF/wr1o0jV1ceBkfDR3kZHNvSzjTeXaR/dfhgnqvWBPDBfe8Rp\nkqm+ZQPONlWTy7Mt3Xavp9C2WIyzm+YpSwPeE0jXO24OwzXNkt4PVthZ5LqDlMNc\no3YTE5vqoPLTjJyYmt3x3gqKUc1eKzF/Ekp+Dxdwa0fJzuEYqRmcQcFtcmkza45S\nrFV+fcEgX+eG9S+wizLtwOxBUfyZXJaPWLAA57GsGJrGgDSEJeVYSWZlqpBuu60J\nGaFOzH4zAgMBAAECggEAGj3fxkM+8WT4m2TzQJD76sBir5V0ANgDNir+ET/zOo3y\nsDWw1lB2uoIukn2i2Cs1Dz6fTEQh2UuG2SDRHT0CS/nWthABZet9sVWxjMHCqrd1\nUufD9imnUgv6KwLz+TxvSN7pr/kak6QyI5oE4WtMg3be/LfRqOA6jaDqjw9JGXvn\nsKKZaHvuSp25ZrcZC+DC6bF5sqC6gpNhdR15uFgkI0rnlB08Geb1I6YViBBIto/y\nmjIuCEgzcNDopdaWsO9sBs22zZwGgxzAksQcVFMZARphejCPG/RiRJkAN2PX7K/B\noYtz784PzDa9W32Sz0tn+BCCH3nTr20BoenxLvFEUQKBgQD1t5wdpIPI1mRDkl10\nwWnBbpCaPWm78ZJqyRs9YF5v6PcdxPOfTfT6Yj9e4SLZbzXyAZqUZkukrVmObtVH\n5/CHp79Ye7IZZjNN4g/F3R1vTIXrsrJJXK51OX/eTTp5OvA+cXS7VmXwobi2N8vb\nqokX145UMabo+QWWNvy2Uazp5wKBgQDO2rX9t9YcrzX505FxR+zbTKayUOW2EIFP\nhJvwadSpoRumY94UyISyuCHbape6zzJzQ99hnN6WX9/aI36T01NoGXXFtLn7xkRC\nlQCZjDt0ovyaslTy1+0bijC3aB7c5ya0Z/sVI4Ckir4vFjadJ3PNk94tGR8L2Trg\nDxEQUcD31QKBgQDFZIMdrRPRO6nAPsylBtuWcOPphHx0Z1RgRL6FR+2VqWkbmSS9\nTTsICfUum14LnrOPfopXvPX3jOrs6UydP06TK8cjpfslPFzqrDhPk5oZ1zeeaSeg\nl7vuoAqA4zmeOiLVhv9nn7i03rYsbBZwmUcYyCmmqVyUu7gpPHM3Y9Ws8QKBgQC+\ncDz8yTMmVWisCEvurvkxLPCLWk8hvzBNtRibzdMsGFcMaQUcvT7uCveguhHWussH\ns4UEqReD+eBtRCBUmEpBnK8AxdI0KeTOJ7/VnXVffG5zPZtXt9Njd2ZCdGl1lpnb\nnZ9bZsQYuGM/loPRS3Eh4vC5NFeQ4P2DKlvbWmj9wQKBgGzC8N7Hxsh8EUr5Z0UQ\nQommpUgrDRdqjEfExGD8trmO2KICqcq+A3CktK/t/5EPyAehw/z7m5N/bYi1bFZB\nlm57jPU1uvDpiWQe6meMw542UvsoK8Itrv5tXLY59vQRIe0mhrDNeNwQ13nsTo+W\nrK5kSvjfg/XPRBXXTeSt+xs9\n-----END PRIVATE KEY-----\n",
+  "client_email": "com426final@adept-turbine-291020.iam.gserviceaccount.com",
+  "client_id": "111678032777119813270",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/com426final%40adept-turbine-291020.iam.gserviceaccount.com"
+}

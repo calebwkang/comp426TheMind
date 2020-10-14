@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/ck73205/Dropbox/git/the_mind/my-key.json"
