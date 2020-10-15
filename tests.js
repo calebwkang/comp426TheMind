@@ -1,7 +1,10 @@
 const {RealmsServiceClient} = require('@google-cloud/game-servers');
 
 
-// CODE TO create a Realm
+// Code TO create a Realm
+// More info on Google Game Server API here
+// https://cloud.google.com/game-servers/docs
+
 async function createRealm(id) {
     const client = new RealmsServiceClient();
 
